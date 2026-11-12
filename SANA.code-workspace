@@ -1,0 +1,5 @@
+{
+  "folders": [{"name": "SANA · Қазақша AI & Human Detector", "path": "."}],
+  "settings": {},
+  "extensions": {"recommendations": ["ms-python.python", "ms-python.vscode-pylance", "ms-python.debugpy", "ms-toolsai.jupyter"]}
+}
